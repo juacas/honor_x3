@@ -1,14 +1,14 @@
-# Huawei HG659 Router Integration in Home Assistant
-Component to integrate the Huawei HG659 router (tested on model HG659).
+# Honor X3 Router Integration in Home Assistant
+Component to integrate the Huawei Honor X3 router (tested on model Honor X3 Pro).
 
 ## Features
-- Publish the huawei_hg659.reboot service to reboot the router.
+- Publish the honor_x3.reboot service to reboot the router.
 - Provides a device_tracker to monitor the connection status of devices.
 
 ## Example usage
 
 ```
-# Setup the platform huawei_hg_659
+# Setup the platform honor_x3
 honor_x3:
   host: 192.168.0.1
   username: admin
