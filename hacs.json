@@ -1,0 +1,5 @@
+{
+  "name": "Honor X3 tracker",
+  "render_readme": "true",
+  "domains": ["device_tracker"]
+}
