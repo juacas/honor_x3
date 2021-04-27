@@ -2,5 +2,6 @@
   "domain": "honor_x3",
   "name": "Honor X3 Router",
   "documentation": "Integration of Honor X3 router. Device tracker and reboot action.",
-  "codeowners": ["@jpdecastro"]
+  "codeowners": ["@jpdecastro"],
+  "version": "v1.0.3"
 }
