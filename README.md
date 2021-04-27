@@ -1,5 +1,5 @@
-# Honor X3 Router Integration in Home Assistant
-Component to integrate the Huawei Honor X3 router (tested on model Honor X3 Pro).
+# Honor Router 3/X3  Integration in Home Assistant
+Component to integrate the Huawei Honor X3 and Honor Router 3 (tested on model Honor X3 Pro and Honor Router 3).
 
 ## Features
 - Publish the honor_x3.reboot service to reboot the router.
