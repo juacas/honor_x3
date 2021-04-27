@@ -1,7 +1,7 @@
 {
   "domain": "honor_x3",
-  "name": "Honor X3 Router",
-  "documentation": "Integration of Honor X3 router. Device tracker and reboot action.",
+  "name": "Honor 3/X3 Router",
+  "documentation": "Integration of Honor 3, X3 router. Device tracker and reboot action.",
   "codeowners": ["@jpdecastro"],
-  "version": "v1.0.3"
+  "version": "v1.0.4"
 }
