@@ -1,7 +1,10 @@
 {
   "domain": "honor_x3",
   "name": "Honor 3/X3 Router",
-  "documentation": "Integration of Honor 3, X3 router. Device tracker and reboot action.",
+  "documentation": "https://raw.githubusercontent.com/juacas/honor_x3/master/README.md",
   "codeowners": ["@juacas"],
-  "version": "v1.0.5"
+  "issue_tracker": "https://github.com/juacas/honor_x3/issues",
+  "version": "v1.0.5",
+  "requirements": ["requests", "bs4", "pycryptodome==3.9.9"],
+  "iot_class": "local_polling"
 }
