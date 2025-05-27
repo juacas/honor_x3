@@ -61,7 +61,7 @@ class HonorX3Client:
 
             assert device_info['csrf_param'] and device_info['csrf_token'], 'Empty csrf_param or csrf_token'
         except Exception as e:
-            _LOGGER.error('Failed to get CSRF. error "{0}" with data {1}'.format(e))
+            _LOGGER.error('Failed to get CSRF. error "{0}" '.format(e))
             self.statusmsg = e.errorCategory
             self.status = 'off'
             return False
