@@ -2,7 +2,7 @@
 # Base component constants
 DOMAIN = "honor_x3"
 DOMAIN_DATA = "{}_data".format(DOMAIN)
-VERSION = "v1.0.6"
+VERSION = "v1.0.7"
 PLATFORMS = ["sensor"]
 ISSUE_URL = "https://github.com/juacas/honor_x3/issues"
 

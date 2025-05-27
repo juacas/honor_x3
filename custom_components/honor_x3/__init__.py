@@ -51,7 +51,7 @@ def setup(hass, config):
 
     # Load platforms
     for platform in PLATFORMS:
-        hass.async_create_task(
+        hass.create_task(
             discovery.async_load_platform(
                 hass, platform, DOMAIN, plattform_conf, config
             )
