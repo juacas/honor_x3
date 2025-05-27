@@ -3,12 +3,12 @@
     "description": "This integration allows you to control and monitor your Honor X3 device.",
     "errors": {
         "connection_error": "Could not connect to the Honor X3 device. Please check your settings.",
-        "invalid_credentials": "The provided credentials are invalid. Please try again."
+        "invalid_credentials": "The provided credentials are invalid. Please try again"
     },
     "services": {
         "reboot": {
-            "name": "Reboot Device",
-            "description": "Reboots the Honor X3 device.",
-        },
+            "name": "reboot",
+            "description": "Reboots the Honor X3 device."
+        }
     }
 }
