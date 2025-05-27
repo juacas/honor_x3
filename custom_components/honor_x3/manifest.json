@@ -1,10 +1,10 @@
 {
   "domain": "honor_x3",
   "name": "Honor 3/X3 Router",
-  "documentation": "https://raw.githubusercontent.com/juacas/honor_x3/master/README.md",
   "codeowners": ["@juacas"],
+  "documentation": "https://raw.githubusercontent.com/juacas/honor_x3/master/README.md",
+  "iot_class": "local_polling",
   "issue_tracker": "https://github.com/juacas/honor_x3/issues",
-  "version": "v1.0.6",
   "requirements": ["bs4", "pycryptodome>=3.9.9"],
-  "iot_class": "local_polling"
+  "version": "v1.0.6"
 }

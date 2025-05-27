@@ -1,2 +1,3 @@
 reboot:
+  name: reboot
   description: Reboot the router.
